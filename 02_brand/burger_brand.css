@@ -1,5 +1,25 @@
 @charset "utf-8";
 /* CSS Document */
+
+:root{
+	/*color*/
+	--color-green:#8fc56a;
+	--color-black: #000;
+	--color-yellow:#ed9e38;
+	--color-white:#fff;
+	--color-light-gray:#f1f1f1;
+	--color-dark-gray:#292929;
+	--color-olive:#929191;
+	--color-dark-green:#5b5b5b;
+
+
+	/*font-family*/
+	--font-nanum: NanumBarunGothic;
+	--font-round: "Bauhaus 93";
+	--font-malgun: "맑은 고딕";
+}
+
+
 *{margin:0; padding:0;}
 ul{list-style:none;}
 a{text-decoration:none;color:inherit;}
@@ -15,7 +35,7 @@ header{
 .line{
 	width:100%;
 	height:6px;
-	background-color:#8fc56a;
+	background-color:var(--color-green);
 }
 header>.wrap{
 	width:1200px;
@@ -28,7 +48,7 @@ header>.wrap{
 	margin-bottom:58px;
 	text-align:center;
 }
-.gnb{float:left;width:1200px; font-family:"맑은 고딕"; font-size:20px; margin:auto; text-align:center;color:#8fc56a;}
+.gnb{float:left;width:1200px; font-family:var(--font-malgun); font-size:20px; margin:auto; text-align:center;color:var(--color-green);}
 .gnb>li{float:left; margin-right:200px; cursor:pointer; position:relative;}
 .gnb>li:first-child{margin-left:205px;}
 .gnb>li:last-child{margin-right:none;}
@@ -38,18 +58,18 @@ header>.wrap{
 	position:absolute;
 	top:29px;
 	z-index:5;
-	background-color:#8fc56a;
+	background-color:var(--color-green);
 	width:100%;
 	height:290px;
-	color:white;
-	font-family:"맑은 고딕";
+	color:var(--color-white);
+	font-family:var(--font-malgun);
 	font-weight:normal;
 	font-size:18px;
 	line-height:34px;
 	display:none;
 }
 .sub_m > li:hover{
-	color:black;
+	color:var(--color-black);
 }
 
 .second{
@@ -85,7 +105,7 @@ header>.wrap{
 
 .right {  width:500px; padding-top:80px; box-sizing:border-box;}
 
-.right > p{ align-items: center; margin-bottom:50px; font-size:20px; font-family:NanumBarunGothic;}
+.right > p{ align-items: center; margin-bottom:50px; font-size:20px; font-family:var(--font-nanum);}
 
 
 /*======#two=====*/
@@ -97,7 +117,7 @@ header>.wrap{
 
 .content_box{width:100%; display:flex; flex-direction: row; justify-content: space-between;}
 .t_left {  width:500px; padding-top:80px; box-sizing:border-box;}
-.t_left> p{ align-items: center; margin-bottom:50px; font-size:20px; font-family:NanumBarunGothic;}
+.t_left> p{ align-items: center; margin-bottom:50px; font-size:20px; font-family:var(--font-nanum);}
 
 
 .p_right{position:relative; top:250px;}
@@ -109,7 +129,7 @@ header>.wrap{
 
 .text{  width:500px; padding-top:80px; box-sizing:border-box;}
 
-.text > p{ align-items: center; margin-bottom:50px; font-size:20px; font-family:NanumBarunGothic;}
+.text > p{ align-items: center; margin-bottom:50px; font-size:20px; font-family:var(--font-nanum);}
 /*=======#four=========*/
 
 #four{ width:100%;}
@@ -117,14 +137,14 @@ header>.wrap{
 /*footer*/
 footer{
 	width:100%;
-	background-color:#292929;
+	background-color:var(--color-dark-gray);
 	text-align:center;
 	height:149px;
 }
 
 footer>.box{
 	width:100%;
-	border-bottom:2px solid #f1f1f1;
+	border-bottom:2px solid var(--color-light-gray);
 	height:47px;
 	margin-bottom:15px;
 }
@@ -140,9 +160,9 @@ footer>.box .info{
 }
 footer .info>li{
 	float:left;
-	color:white;
+	color:var(--color-white);
 	font-size:12px;
-	font-family:NanumBarunGothic;
+	font-family:var(--font-nanum);
 	line-height:47px;
 	margin-right:35px;
 }
