@@ -87,7 +87,7 @@ If you want to see more check my css history on my github!
 So I put it in for users. 
 
 
-<img width="600" src="https://user-images.githubusercontent.com/77384682/107641276-c59a3f00-6cb6-11eb-9650-2281ecbfa737.gif">
+<img width="600" src="https://user-images.githubusercontent.com/77384682/107679833-681ae800-6ce0-11eb-83cf-f32b8f6698ca.gif">
 
 
 
