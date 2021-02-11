@@ -78,10 +78,10 @@ If you want to see more check my css history on my github!
 
 1. I really like that I changed the whole layout on this website. It looks more professional website to give an information to users.
 
-<img width="600" src="https://user-images.githubusercontent.com/77384682/107641759-5a04a180-6cb7-11eb-9193-647058ca7e8a.png">
+<img width="600" src="https://user-images.githubusercontent.com/77384682/107678135-5c2e2680-6cde-11eb-8131-75da57f2ffee.gif">
 
 
-<img width="600" alt="스크린샷 2021-02-10 오전 4 18 39" src="https://user-images.githubusercontent.com/77384682/107641827-70aaf880-6cb7-11eb-810f-8a19e5414759.png">
+<img width="600" alt="스크린샷 2021-02-10 오전 4 18 39" src="https://user-images.githubusercontent.com/77384682/107678205-749e4100-6cde-11eb-98d2-b8974ec3fe73.gif">
 
 2. I made **'top button**. As one of a website user, I sometimes found out the annoyed part when website do not offer 'back to top' button. 
 So I put it in for users. 
@@ -93,11 +93,11 @@ So I put it in for users.
 
 3. In **Food & DRINK** page, I gave an animation on the banner to emphasize their product. Plus, I even made burger layout on the Burger introduce phrases to give more impression that They are looking at the burger website.
 
-<img width="600" src="https://user-images.githubusercontent.com/77384682/107641057-78b66880-6cb6-11eb-8fb3-c730fc277573.gif">
+<img width="600" src="https://user-images.githubusercontent.com/77384682/107678762-2178be00-6cdf-11eb-8956-19049bdb8ceb.gif">
 
 4. Even though They also do some events but do not announce on the website. So people barely know that they are doing it. 
 So I made banner by myself and put on the bottom of the main page. 
 
-<img width="600" alt="bestsellers" src="https://user-images.githubusercontent.com/77384682/107640744-11001d80-6cb6-11eb-94a5-f18d55eeda79.png">
+<img width="600" alt="banner" src="https://user-images.githubusercontent.com/77384682/107678557-e6768a80-6cde-11eb-9601-ee01b4f0aca3.png">
 >
 
