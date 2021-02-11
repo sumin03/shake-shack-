@@ -6,7 +6,7 @@ _Shake-shack Hamburger website, re-design and coded by myself_
 
 >Before, Checking my website. Please check with Chrome and this website is based on 1920px (content size: 1200px)
 
-<img width="800" alt="main_screenshot" src="https://user-images.githubusercontent.com/77384682/107640794-2412ed80-6cb6-11eb-9734-dee0971fd351.png">
+<img width="800" alt="main_screenshot" src="https://user-images.githubusercontent.com/77384682/107677324-7c111a80-6cdd-11eb-98d5-176c8fc77390.png"">
 
 
 
